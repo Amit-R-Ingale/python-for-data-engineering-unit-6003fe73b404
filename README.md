@@ -1,0 +1,1 @@
+# Solar Panel Output Logger
